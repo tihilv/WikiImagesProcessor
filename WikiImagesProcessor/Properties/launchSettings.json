@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WikiImagesProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "-l Nicosia -d en -i"
+    }
+  }
+}
